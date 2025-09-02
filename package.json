@@ -1,0 +1,14 @@
+{
+  "name": "n8n-standalone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "n8n": "^0.250.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
